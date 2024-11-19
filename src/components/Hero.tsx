@@ -8,8 +8,7 @@ export const Hero = () => {
           AI SEO
         </h1>
         <p className="text-lg text-centertext-white/70 my-5">
-          Elevate your site's visibilty effortlessly with AI, where smart
-          technology meets user-friendly SEO tools.
+          Elevate your site's visibilty effortlessly with AI, where smart technology meets user-friendly SEO tools.
         </p>
         <div className="flex justify-center">
           <Button>Join waitlist</Button>
