@@ -3,7 +3,6 @@ import { Button } from "./Button";
 import starsBg from "@/assets/stars.png";
 import {
   motion,
-  useMotionValueEvent,
   useScroll,
   useTransform,
 } from "framer-motion";
