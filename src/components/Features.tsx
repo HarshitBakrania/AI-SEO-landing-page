@@ -3,7 +3,6 @@ import {
   DotLottieCommonPlayer,
   DotLottiePlayer,
 } from "@dotlottie/react-player";
-import Image from "next/image";
 import productImage from "@/assets/product-image.png";
 import { ComponentPropsWithRef, useEffect, useRef, useState } from "react";
 import {
