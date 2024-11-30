@@ -8,7 +8,7 @@ import { Reviews } from "@/components/Reviews";
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-[#0A0A0A]">
       <Header />
       <Hero />
       <LogoTicker />
